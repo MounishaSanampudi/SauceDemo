@@ -1,0 +1,7 @@
+<suite name="sauce_demo">
+  <test name="func testing">
+     <classes>
+       <class name="sauce_test.Fnc_test"/>
+     </classes>
+  </test>
+</suite>
