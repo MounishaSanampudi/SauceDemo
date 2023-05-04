@@ -19,6 +19,7 @@ public class Base
 	}
 	public void teardown() {
 		driver.quit();
+		
 	}
 
 }
